@@ -1102,3 +1102,8 @@ a:hover, a span:hover
     padding-left: 30px;
     line-height: 100px;
 }
+
+.social
+{
+    padding-left: 0px;
+}
