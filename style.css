@@ -1082,3 +1082,23 @@ a:hover, a span:hover
 {
     color:white !important;
 }
+
+.text-page2-seo-title
+{
+    color:#424242;
+    text-align: center;
+    font-size: 3rem;
+}
+.text-page2-seo
+{
+    color:#424242;
+    text-align: center;
+    font-size: 20px;
+}
+
+.contact-seo
+{
+    font-size: 20px;
+    padding-left: 30px;
+    line-height: 100px;
+}
